@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="W4fRzhZSfEkUmVzT5T8K">
+    <mxGraphModel dx="772" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-1" target="3NHTY0y7HbhGkLKMpO7_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-1" value="Bắt đầu chương trình" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-2" target="3NHTY0y7HbhGkLKMpO7_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-2" value="Nhập số nguyên n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-3" target="3NHTY0y7HbhGkLKMpO7_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-3" target="3NHTY0y7HbhGkLKMpO7_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-3" value="Kiểm tra điều kiện" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-4" target="3NHTY0y7HbhGkLKMpO7_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-4" value="Chẵn&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3NHTY0y7HbhGkLKMpO7_-5" target="3NHTY0y7HbhGkLKMpO7_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-5" value="Lẻ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-8" value="Nếu n % 2 = 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-9" value="Nếu n % 2 &amp;gt; 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NHTY0y7HbhGkLKMpO7_-10" value="Kết thúc chương trình" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
